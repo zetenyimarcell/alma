@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592646172227",
+    "project_id": "spotify-9f434",
+    "storage_bucket": "spotify-9f434.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592646172227:android:74a704ab2bf85751b02ef6",
+        "android_client_info": {
+          "package_name": "com.hangfolyam.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592646172227-d2kic3r4aj2pb8p2tijbasnc1ss1uo2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtHuTRL9cyGbgYKpzDB7eOGLFKpefDrYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592646172227-d2kic3r4aj2pb8p2tijbasnc1ss1uo2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
